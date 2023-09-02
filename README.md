@@ -20,7 +20,7 @@ Developed by : Deepika S
 register number : 212222230028
 ```
 ### CODE:
-##bhp.csv:
+## bhp.csv:
 ```
 import pandas as pd
 import seaborn as sns

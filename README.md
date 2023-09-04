@@ -90,7 +90,18 @@ sns.boxplot(y='weight',data=weight_new)
 ```
 ## OUTPUT:
 ### bhp.csv:
+![bhp](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/ac329473-447e-4074-a67b-83ec89c74598)
+
+![bhp head](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/a26a59db-13c8-4bb7-9d4a-4c5d48b2da2b)
+
+![1out](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/f2691be0-ca5d-42d5-b197-45d9a0013cf0)
+
+![2out](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/e51f3a4b-d629-47c5-876b-a32f685cf6d3)
+
+![3out](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/2a2b650f-32a4-4e35-88cb-e346fcc3b814)
 ### weight_height.csv:
+
+
 ## RESULT:
 Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
 

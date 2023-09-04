@@ -91,11 +91,26 @@ sns.boxplot(y='weight',data=weight_new)
 ## OUTPUT:
 ### bhp.csv:
 ![bhp](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/ac329473-447e-4074-a67b-83ec89c74598)
+
 ![bhp head](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/a26a59db-13c8-4bb7-9d4a-4c5d48b2da2b)
+
 ![1out](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/f2691be0-ca5d-42d5-b197-45d9a0013cf0)
+
 ![2out](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/e51f3a4b-d629-47c5-876b-a32f685cf6d3)
+
 ![3out](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/2a2b650f-32a4-4e35-88cb-e346fcc3b814)
 ### weight_height.csv:
+![height weight](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/8c2b42a3-43ef-4538-bc6e-16f36b8b7498)
+
+![height head](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/aa051aaa-a4f3-46fc-acd2-69b8e991c2e7)
+
+![height1](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/fa40996a-8529-4cb8-b6c1-d6be674cb2a8)
+
+![height2](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/87fc5b3f-d8aa-410a-9a47-138ecebc7fdb)
+
+![height3](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/f1175dea-05e8-424f-81c5-05597ca6e60c)
+
+![height4](https://github.com/deepikasrinivasans/ODD2023---Datascience---Ex-02/assets/119393935/28060644-5baa-46cc-b176-153656090a6f)
 
 
 ## RESULT:
